@@ -1,4 +1,4 @@
-#Python for Data Analysis and Visualization
+## Python for Data Analysis and Visualization
 
 Data analysis with python could be roughly divided into 6 parts.
 
