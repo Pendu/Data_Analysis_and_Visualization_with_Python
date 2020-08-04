@@ -1,6 +1,4 @@
-# Learning Python for Data Analysis and Visualization
-
-These are the notes from Udemy course. 
+#Python for Data Analysis and Visualization
 
 Data analysis with python could be roughly divided into 6 parts.
 
